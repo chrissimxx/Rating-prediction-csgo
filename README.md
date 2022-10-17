@@ -1,0 +1,2 @@
+# Rating prediction csgo
+Rating prediction for the Esport game Counter Strike Global Offensive. A few regression models are used to determine the rating of professional players in the esport game Counter strike global offensive. This is done using scikit-learn library for python. Further fine tuning is done to improve the performance of these regression models which can then be compared to see which model performs best to predict ratings in Counter Strike Global offensive.
